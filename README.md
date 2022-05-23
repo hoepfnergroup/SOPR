@@ -3,7 +3,7 @@
 ## General Information
 Source code for running the Structure-Optimized Potential Refinement (SOPR) approach to optimize atomic pair potentials that are benchmarked to pair distribution functions. 
 
-SOPR is an iterative predictor-corrector numerical method to determine the unique structure-optimized pair potential for a given radial distribution function. The provided jupyter notebook is an example code designed for analyzing experimental diffraction measurements in monoatomic liquids (eg. noble gases, metals, etc) applied to liquid neon at 42K. See (citation) for details on the motivation and methodology.     
+SOPR is an iterative predictor-corrector numerical method to determine the unique structure-optimized pair potential for a given radial distribution function. The provided jupyter notebook is an example code designed for analyzing experimental diffraction measurements in monoatomic liquids (eg. noble gases, metals, etc) applied to liquid neon at 42K. See (citation) for details on the algorithm as well as discussions on the motivations to constructing force fields from experimental measurements of liquid structure.    
 
 ## Required Software
 HOOMD_Blue ver 3.0.0: https://hoomd-blue.readthedocs.io/en/latest/installation.html
