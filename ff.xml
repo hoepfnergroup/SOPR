@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ForceField name="Reference_Potential" version="0.0.1" combining_rule="geometric">
+  <!--XML units: kcal/mol for energies, nm for lengths, and radians for angles.-->
+  <AtomTypes>
+    <Type name="Ne" class="Ne" element="Ne" mass="20.1797" def="[Ne]" desc="ab initio potential"/>
+  </AtomTypes>
+  <HarmonicBondForce>
+  </HarmonicBondForce>
+  <HarmonicAngleForce/>
+  <RBTorsionForce>
+  </RBTorsionForce>
+  <NonbondedForce coulomb14scale="0.0" lj14scale="0.0">
+    <Atom type="Ne" charge="0" sigma="0.276" epsilon="0.084"/>
+  </NonbondedForce>
+</ForceField>
