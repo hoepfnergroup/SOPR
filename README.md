@@ -7,12 +7,10 @@ SOPR is an iterative predictor-corrector numerical method to determine the uniqu
 
 ## Required Software
 HOOMD_Blue ver 3.0.0: https://hoomd-blue.readthedocs.io/en/latest/installation.html <br />
-Mbuild ver 0.14.2: https://mbuild.mosdef.org/en/stable/ <br />
-Foyer ver 0.11.0: https://foyer.mosdef.org/en/stable/ <br />
 Freud ver 2.8.0: https://freud.readthedocs.io/en/latest/ <br />
 
 ## Version History
-SOPR v0.1 is designed for monatomic liquids that are benchmarked to real-space (r) isotropic pair distrubution functions. 
+SOPR v0.2 is designed for monatomic liquids that are benchmarked to real-space (r) isotropic pair distrubution functions. 
 
 ## Acknowledgement
 The source code development was supported by the National Science Foundation under award number CBET-1847340. Developed at the University of Utah, Department of Chemical Engineering by Brennon Shanks and Michael P. Hoepfner.  
