@@ -29,7 +29,7 @@ def ise_kernel(w, l, R):
 def gpr_se(Kdd, x, y, yinf_min, yinf_max, y_bins, w_hyp, l_hyp):
     from numpy import array, empty, linspace, arange, diag, maximum, sqrt, exp
     from numpy.linalg import eigh
-    td  = array(xd, dtype='float64')                  #input radius data
+    td  = array(x, dtype='float64')                  #input radius data
     yd  = array(y - y[-1], dtype='float64')           #input tabulated potential
     nd  = td.shape[0]                                 #size of the input data
 
