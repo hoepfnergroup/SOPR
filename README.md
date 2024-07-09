@@ -14,3 +14,7 @@ SOPR v1.1 is designed for monatomic liquids that are benchmarked to real-space (
 
 ## Acknowledgement
 The source code development was supported by the National Science Foundation under award number CBET-1847340. Developed at the University of Utah, Department of Chemical Engineering by Brennon Shanks and Michael P. Hoepfner.  
+
+## Cite 
+Shanks, B. L., Potoff, J. J. & Hoepfner, M. P. Transferable Force Fields from Experimental Scattering Data with Machine Learning Assisted Structure Refinement. J. Phys. Chem. Lett. 13, 11512–11520 (2022).
+
