@@ -11,6 +11,7 @@ sopr_v1.1:
     - New inverse squared-exponential kernel to improve Gaussian process regression of the tabulated refinement potential.
     - Updated to newest HOOMD and Freud versions as of July, 2024.
     - Improved figure readability and comments.
+    
 HOOMD_Blue ver 4.7.0: https://hoomd-blue.readthedocs.io/en/latest/installation.html <br />
 Freud ver 3.1.0: https://freud.readthedocs.io/en/latest/ <br />
 
