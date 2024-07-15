@@ -16,7 +16,7 @@ HOOMD_Blue ver 4.7.0: https://hoomd-blue.readthedocs.io/en/latest/installation.h
 Freud ver 3.1.0: https://freud.readthedocs.io/en/latest/ <br />
 
 ## Version History
-SOPR v1.0 - Monatomic liquid radial distribution function potential refinement using squared-exponential kernel Gaussian processes.
+SOPR v0.2 - Monatomic liquid radial distribution function potential refinement using squared-exponential kernel Gaussian processes.
 
 SOPR v1.1 - Updates to Gaussian process kernel to reduce spurious long-range potential oscillations as well as HOOMD and Freud package versions.
 
